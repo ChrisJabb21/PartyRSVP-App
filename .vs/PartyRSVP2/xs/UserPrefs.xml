@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{67737BD7-DCF7-4560-80F5-D0AAFF327AE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/About.cshtml">
+    <Files>
+      <File FileName="Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Contact.cshtml" Line="15" Column="70" />
+      <File FileName="Views/Home/Rsvp.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Thanks.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/About.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PartyRSVP2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

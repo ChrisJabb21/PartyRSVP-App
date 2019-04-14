@@ -1,0 +1,68 @@
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.deps.json
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.runtimeconfig.json
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.runtimeconfig.dev.json
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.dll
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.pdb
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.Views.dll
+/Users/Chris/Desktop/PartyRSVP2/bin/Debug/netcoreapp2.1/PartyRSVP2.Views.pdb
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.csprojAssemblyReference.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.csproj.CoreCompileInputs.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorAssemblyInfo.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorAssemblyInfo.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.AssemblyInfoInputs.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.AssemblyInfo.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.TagHelpers.input.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.TagHelpers.output.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorCoreGenerate.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Rsvp.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Home/Thanks.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorTargetAssemblyInfo.cache
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorTargetAssemblyInfo.cs
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.Views.pdb
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.dll
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.pdb
+/Users/Chris/Desktop/PartyRSVP2/obj/Debug/netcoreapp2.1/PartyRSVP2.csproj.CopyComplete
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.deps.json
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.runtimeconfig.json
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.runtimeconfig.dev.json
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.dll
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.pdb
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.Views.dll
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/bin/Debug/netcoreapp2.1/PartyRSVP2.Views.pdb
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.csprojAssemblyReference.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.csproj.CoreCompileInputs.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorAssemblyInfo.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorAssemblyInfo.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.AssemblyInfoInputs.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.AssemblyInfo.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.TagHelpers.input.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.TagHelpers.output.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorCoreGenerate.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Rsvp.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Home/Thanks.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorTargetAssemblyInfo.cache
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.RazorTargetAssemblyInfo.cs
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.Views.pdb
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.dll
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.pdb
+/Users/Chris/Desktop/Woz-u/C#BackEnd /L03 HandsOn MVC/obj/Debug/netcoreapp2.1/PartyRSVP2.csproj.CopyComplete
